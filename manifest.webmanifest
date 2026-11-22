@@ -28,5 +28,14 @@
     "business",
     "productivity",
     "utilities"
-  ]
+  ],
+  "orientation": "any",
+  "prefer_related_applications": false,
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "launch_handler": {
+    "client_mode": "navigate-existing"
+  }
 }
