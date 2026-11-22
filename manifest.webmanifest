@@ -1,0 +1,18 @@
+{
+  "name": "PriceFlow - Smart Price Calculator",
+  "short_name": "PriceFlow",
+  "description": "Price calculator for Phoenix and Excel",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f7f5",
+  "theme_color": "#e75335",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
