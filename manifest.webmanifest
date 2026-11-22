@@ -9,10 +9,24 @@
   "theme_color": "#e75335",
   "icons": [
     {
-      "src": "icons/icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
     }
+  ],
+  "id": "./",
+  "lang": "ar",
+  "dir": "rtl",
+  "categories": [
+    "business",
+    "productivity",
+    "utilities"
   ]
 }
